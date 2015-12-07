@@ -1,0 +1,6 @@
+/Users/masterUNG/MyWorkspace/Studio_Learning/MasterAlarm2/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/exercise/AndroidTime/R$override.class
+/Users/masterUNG/MyWorkspace/Studio_Learning/MasterAlarm2/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/exercise/AndroidTime/AndroidTimeActivity$override.class
+/Users/masterUNG/MyWorkspace/Studio_Learning/MasterAlarm2/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/exercise/AndroidTime/AlarmReceiver$override.class
+/Users/masterUNG/MyWorkspace/Studio_Learning/MasterAlarm2/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/exercise/AndroidTime/R$id$override.class
+/Users/masterUNG/MyWorkspace/Studio_Learning/MasterAlarm2/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/exercise/AndroidTime/R$string$override.class
+/Users/masterUNG/MyWorkspace/Studio_Learning/MasterAlarm2/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/android/build/gradle/internal/incremental/AppPatchesLoaderImpl.class
